@@ -1,0 +1,1 @@
+https://dev449281.service-now.com/now/nav/ui/classic/params/target/sys_script_client_list.do%3Fsysparm_query%3Dsys_class_name%253Dsys_script_client%255EEQ
